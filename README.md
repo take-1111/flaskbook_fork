@@ -7,6 +7,9 @@ $ git clone https://github.com/ml-flaskbook/flaskbook.git
 
 ## 仮想環境を作成する
 
+python の version は 3.9.13 を利用している。
+python 3.10 以降の version を使うと requirements.txt で管理のパッケージと互換性がなくなるため。
+
 ### Mac/Linux
 
 ```
